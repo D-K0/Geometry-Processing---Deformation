@@ -2,4 +2,4 @@
 
 `repository under construction`
 
-(assignment link for which this project was made) [https://github.com/alecjacobson/geometry-processing-deformation]
+[assignment link for which this project was made] (https://github.com/alecjacobson/geometry-processing-deformation)
